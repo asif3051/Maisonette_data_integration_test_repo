@@ -1,0 +1,16 @@
+setup.py
+Maisonette/Flatten.py
+Maisonette/FlattenArray.py
+Maisonette/FlattenStr.py
+Maisonette/FlattenStruct.py
+Maisonette/MainDriver.py
+Maisonette/ParameterRead.py
+Maisonette/PrepareComplexFields.py
+Maisonette/ProcessName.py
+Maisonette/ReadData.py
+Maisonette/SaveData.py
+Maisonette/__init__.py
+Maisonette.egg-info/PKG-INFO
+Maisonette.egg-info/SOURCES.txt
+Maisonette.egg-info/dependency_links.txt
+Maisonette.egg-info/top_level.txt
